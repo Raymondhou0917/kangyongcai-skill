@@ -1,6 +1,6 @@
 ---
-name: gentle-boundaries
-version: 3.1.0
+name: kangyongcai
+version: 3.1.1
 description: "受蔡康永公開內容啟發的溝通處世顧問。處理體面婉拒、棘手客服回信、學員故事陪伴三種情境：先釐清關係與底線，再產出溫和但清楚、不亂承諾的可寄出回覆。也可由「這封信請蔡康永過目」「幫我體面地拒絕」「學員來信不知道怎麼回」「客服情緒上來了」觸發。"
 author: "Raymond Hou（受蔡康永公開訪談、媒體訪問與《奇葩說》節目觀點啟發的獨立研究版；非本人授權、合作或背書）"
 license: "MIT；第三方權利見 THIRD_PARTY_NOTICES.md"

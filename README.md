@@ -134,7 +134,7 @@
 ## 安裝
 
 ```bash
-npx skills add Raymondhou0917/gentle-boundaries-skill
+npx skills add Raymondhou0917/kangyongcai-skill
 ```
 
 或把整個資料夾放到你的 AI Agent skills 目錄，讓它讀 `SKILL.md`。
@@ -207,7 +207,7 @@ npx skills add Raymondhou0917/gentle-boundaries-skill
 ## 倉庫結構
 
 ```text
-gentle-boundaries-skill/
+kangyongcai-skill/
 ├── SKILL.md                         # Skill 進入點（路由器）
 ├── README.md
 ├── LICENSE                          # MIT（僅涵蓋自行撰寫內容）
