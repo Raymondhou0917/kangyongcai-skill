@@ -2,11 +2,17 @@
 
 # 蔡康永 · 溝通處世.skill
 
+<img src="assets/caikangyong.jpg" alt="蔡康永" width="160" height="160" />
+
+<br>
+
 > *「先把人接住，再說清楚你做得到與做不到的事。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![獨立研究](https://img.shields.io/badge/獨立研究-非本人授權-lightgrey.svg)](./THIRD_PARTY_NOTICES.md)
+
+照片來源：[Facebook／蔡康永](https://www.facebook.com/caikangyong)（肖像權屬原權利人；本專案僅供識別）
 
 <br>
 
@@ -15,7 +21,7 @@
 <br>
 
 基於公開訪談截取、公開媒體訪問，以及《奇葩說》節目中他分享的故事與觀點深度調研，  
-提煉 **8 個心智模型**、**決策啟發式**、完整的**表達 DNA**，  
+提煉 **10 個心智模型**、**決策啟發式**、完整的**表達 DNA**，  
 並內建三種日常最卡的情境：**體面婉拒／棘手客服／學員故事陪伴**。
 
 [看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [這個 skill 是怎麼長出來的](#這個-skill-是怎麼長出來的) · [調研來源](#調研來源)
@@ -156,7 +162,7 @@ npx skills add Raymondhou0917/gentle-boundaries-skill
 | **B 棘手回信** | 客服／合作方情緒上來 | 先接住，再守能做／不能做 |
 | **C 故事陪伴** | 對方很脆弱，你怕講空話 | 被聽見，不替人做人生判決 |
 
-### 8 個心智模型
+### 10 個心智模型
 
 1. 舒服地做自己，才是情商的起點  
 2. 把對方放在心上，但不是為了討好  
@@ -166,6 +172,10 @@ npx skills add Raymondhou0917/gentle-boundaries-skill
 6. 你說出口的話，會反過來塑造期待  
 7. 把無謂的勝利讓給對方  
 8. 聰明地分配心力  
+9. 先量人際尺度，再決定能說多深  
+10. 溫柔要把刀口對準事情  
+
+《奇葩說》公開觀點如何變成規則：[`references/qipashuo-public-insights.md`](references/qipashuo-public-insights.md)
 
 ### 表達 DNA（風格化，非口吻扮演）
 
@@ -186,10 +196,11 @@ npx skills add Raymondhou0917/gentle-boundaries-skill
 - **公開訪談截取**（如迷誠品等可核對訪談）
 - **公開媒體訪問**（如 GQ Taiwan 等生涯／工作訪問）
 - **《奇葩說》節目**中他分享的相關故事與觀點
+- 社群對這些公開發言的討論主題（例如[知乎相關問題](https://www.zhihu.com/question/355886426)；本 repo 不鏡像其內容）
 
 研究過程只保存自行整理的摘要、工作流與測試案例，**不收錄逐字語料庫**，也不要求 AI 重現特定原句。
 
-可核對摘要見 [`references/public-source-notes.md`](references/public-source-notes.md)。
+可核對摘要見 [`references/public-source-notes.md`](references/public-source-notes.md)；《奇葩說》規則精煉見 [`references/qipashuo-public-insights.md`](references/qipashuo-public-insights.md)。
 
 ---
 
@@ -201,12 +212,15 @@ gentle-boundaries-skill/
 ├── README.md
 ├── LICENSE                          # MIT（僅涵蓋自行撰寫內容）
 ├── THIRD_PARTY_NOTICES.md           # 姓名／節目／第三方權利聲明
+├── assets/
+│   └── caikangyong.jpg              # 社群媒體大頭照（來源見 README／NOTICES）
 └── references/
     ├── communication-workflow.md    # 三種模式共用骨架
     ├── refusal-mode.md              # 模式 A
     ├── difficult-reply-mode.md      # 模式 B
     ├── companion-mode.md            # 模式 C
     ├── expression-dna.md            # 風格化表達 DNA
+    ├── qipashuo-public-insights.md  # 《奇葩說》公開觀點 → 規則
     ├── examples.md                  # 測試範例
     └── public-source-notes.md       # 公開來源摘要
 ```
