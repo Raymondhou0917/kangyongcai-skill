@@ -148,7 +148,7 @@ npx skills add Raymondhou0917/kangyongcai-skill
 這封信請蔡康永過目
 ```
 
-> 目前 repo 維持 private（課程上線後公開）。若 `npx` 裝不到，請改用課程內快照：`content/skills/tsai-kangyong-eq/`。
+> 目前 repo 維持 private（課程上線後公開）。本 Skill 只在此 repo 維護，課程教材不另存副本。
 
 ---
 
