@@ -10,7 +10,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![獨立研究](https://img.shields.io/badge/獨立研究-非本人授權-lightgrey.svg)](./THIRD_PARTY_NOTICES.md)
+[![Codex](https://img.shields.io/badge/Codex-Skill-blue)](https://openai.com)
 
 照片來源：[Facebook／蔡康永](https://www.facebook.com/caikangyong)（肖像權屬原權利人；本專案僅供識別）
 
