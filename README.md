@@ -148,7 +148,7 @@ npx skills add Raymondhou0917/kangyongcai-skill
 這封信請蔡康永過目
 ```
 
-> 目前 repo 維持 private（課程上線後公開）。本 Skill 只在此 repo 維護，課程教材不另存副本。
+> 本 Skill 採公開開源維護（正本只在此 repo，課程教材不另存副本）。
 
 ---
 
